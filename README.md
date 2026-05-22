@@ -101,3 +101,14 @@ Can enroll and manage enrolled courses.
 - Profile page
 - Course details page
 - Email verification
+
+## Screenshots
+
+### User Dashboard
+<img width="1440" height="819" alt="Ekran Resmi 2026-05-22 18 54 19" src="https://github.com/user-attachments/assets/879e7850-450c-43a3-8a97-685a38233098" />
+### Enrolled Courses
+<img width="1440" height="819" alt="Ekran Resmi 2026-05-22 18 54 04" src="https://github.com/user-attachments/assets/43dc9e0e-430f-4893-aaf9-2bde741c75c7" />
+### Course Details & Materials
+<img width="1440" height="819" alt="Ekran Resmi 2026-05-22 18 54 30" src="https://github.com/user-attachments/assets/ebfcc452-ce1d-4225-8cc9-895796a29dd7" />
+
+
